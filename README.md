@@ -1,4 +1,4 @@
-# EDML-PKDD23 Efficient Hyperdimensional Computing
+# ECML-PKDD23 Efficient Hyperdimensional Computing
 
 
 
